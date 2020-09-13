@@ -1,2 +1,2 @@
-# cs-fundamentals
+# CSharp-fundamentals
 C# Fundamental Course - pluralsight
